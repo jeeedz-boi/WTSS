@@ -9,6 +9,7 @@ OpenPose >= 1.6.0
 Tensorflow >= 1.18
 face-recognition 
 PyQt5
+sklearn
 ```
 
 How to Run
