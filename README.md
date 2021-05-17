@@ -1,11 +1,13 @@
 # WTSS
 
 Requirement
+[OpenPose](https://github.com/CMU-Perceptual-Computing-Lab/openpose) 
+[Face Recognition](https://github.com/ageitgey/face_recognition)
 ```
 Python >= 3.5
-OpenPose >= 1.6.0 [Link Here](https://github.com/CMU-Perceptual-Computing-Lab/openpose)
+OpenPose >= 1.6.0 
 Tensorflow >= 1.18
-Face Recognition [Link Here](https://github.com/ageitgey/face_recognition)
+Face Recognition 
 PyQt5
 ```
 
