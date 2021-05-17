@@ -7,7 +7,7 @@ Requirement
 Python >= 3.5
 OpenPose >= 1.6.0 
 Tensorflow >= 1.18
-Face Recognition 
+face-recognition 
 PyQt5
 ```
 
