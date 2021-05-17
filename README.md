@@ -4,7 +4,7 @@ Software Requirement
 [OpenPose](https://github.com/CMU-Perceptual-Computing-Lab/openpose) 
 [Face Recognition](https://github.com/ageitgey/face_recognition)
 ```
-Python >= 3.5
+python >= 3.5
 OpenPose >= 1.6.0 
 Tensorflow >= 1.18
 face-recognition 
