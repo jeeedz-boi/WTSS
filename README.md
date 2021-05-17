@@ -1,7 +1,7 @@
 # WTSS
 
-Requirement
-[OpenPose](https://github.com/CMU-Perceptual-Computing-Lab/openpose) <br>
+Software Requirement
+[OpenPose](https://github.com/CMU-Perceptual-Computing-Lab/openpose) 
 [Face Recognition](https://github.com/ageitgey/face_recognition)
 ```
 Python >= 3.5
@@ -10,6 +10,13 @@ Tensorflow >= 1.18
 face-recognition 
 PyQt5
 sklearn
+```
+
+Hardware Requirement
+```
+Jetson TX8
+Flir AX8
+Webcam Camera
 ```
 
 How to Run
