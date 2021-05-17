@@ -14,7 +14,7 @@ sklearn
 
 Hardware Requirement
 ```
-Jetson TX8
+Jetson TX2
 Flir AX8
 Webcam Camera
 ```
