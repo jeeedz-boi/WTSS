@@ -1,0 +1,12 @@
+electron/node_modules/
+electron/Current/
+electron/Fever/
+electron/Normal/
+KNN_train_and_test/
+vid_test.py
+client/Storage/*
+client/test_*
+client/openpose/bin
+client/openpose/models
+client/openpose/python
+client/openpose/x64
