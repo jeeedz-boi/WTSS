@@ -1,7 +1,7 @@
 # WTSS
 
 Requirement
-[OpenPose](https://github.com/CMU-Perceptual-Computing-Lab/openpose) 
+[OpenPose](https://github.com/CMU-Perceptual-Computing-Lab/openpose) <br>
 [Face Recognition](https://github.com/ageitgey/face_recognition)
 ```
 Python >= 3.5
