@@ -1,8 +1,7 @@
 # WTSS
 
 Software Requirement
-[OpenPose](https://github.com/CMU-Perceptual-Computing-Lab/openpose)
-OpenPose installation guide. [CLICK HERE](https://spyjetson.blogspot.com/2019/10/jetsonnano-human-pose-estimation-using.html?m=1)
+[OpenPose](https://github.com/CMU-Perceptual-Computing-Lab/openpose) [Installation guide.](https://spyjetson.blogspot.com/2019/10/jetsonnano-human-pose-estimation-using.html?m=1)
 
 [Face Recognition](https://github.com/ageitgey/face_recognition)
 ```
