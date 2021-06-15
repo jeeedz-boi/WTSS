@@ -25,3 +25,5 @@ cd clinet
 python3 main.py
 python3 openpose_flir.py
 ```
+
+OpenPose installation guide. [CLICK HERE](https://spyjetson.blogspot.com/2019/10/jetsonnano-human-pose-estimation-using.html?m=1)
