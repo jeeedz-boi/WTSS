@@ -1,7 +1,9 @@
 # WTSS
 
 Software Requirement
-[OpenPose](https://github.com/CMU-Perceptual-Computing-Lab/openpose) 
+[OpenPose](https://github.com/CMU-Perceptual-Computing-Lab/openpose)
+OpenPose installation guide. [CLICK HERE](https://spyjetson.blogspot.com/2019/10/jetsonnano-human-pose-estimation-using.html?m=1)
+
 [Face Recognition](https://github.com/ageitgey/face_recognition)
 ```
 python >= 3.5
@@ -25,5 +27,3 @@ cd clinet
 python3 main.py
 python3 openpose_flir.py
 ```
-
-OpenPose installation guide. [CLICK HERE](https://spyjetson.blogspot.com/2019/10/jetsonnano-human-pose-estimation-using.html?m=1)
